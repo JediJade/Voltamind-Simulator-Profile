@@ -58,6 +58,12 @@ EV battery education
 Hands-on workshops for battery simulation and configuration
 📖 การอ้างอิง (Citation)
 If you use this repository in academic work, please cite it appropriately or contact the author for reference details.
+## For Training and Education
+
+This repository is provided for learning and teaching purposes.
+Learners are encouraged to modify parameters, observe simulation behavior,
+and understand the engineering rationale behind BMS configuration.
+
 
 © Voltamind / Jesada Pholcharoen
 For education, research, and responsible engineering use.
