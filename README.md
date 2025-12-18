@@ -1,6 +1,10 @@
 Voltamind Simulator Profile
 This repository contains battery simulation profiles and BMS configuration templates for use with the Voltamind Battery Simulator. It is designed for education, research, and real-world EV battery system training.
 
+## 🎥 Course Video
+
+[▶️ Watch: Voltamind Battery Simulation Overview](https://www.youtube.com/watch?v=E_4RdQmXC-8)
+
 📌 วัตถุประสงค์ (Purpose)
 ภาษาไทย
 Repository นี้จัดทำขึ้นเพื่อรวบรวมไฟล์โปรไฟล์ (Profile) สำหรับการจำลองพฤติกรรมแบตเตอรี่ และการตั้งค่า BMS
